@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/rev-logo.png</file>
+    <file>images/university.ico</file>
+  </qresource>
+</RCC>
